@@ -1,4 +1,4 @@
-package com.gl.Construction;
+package com.gl.ConstructionArraysStacks;
 
 import java.util.Scanner;
 import java.util.Stack;

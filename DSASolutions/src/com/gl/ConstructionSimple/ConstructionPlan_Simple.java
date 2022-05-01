@@ -1,4 +1,4 @@
-package com.gl.Construction;
+package com.gl.ConstructionSimple;
 
 import java.util.Scanner;
 public class ConstructionPlan_Simple {
