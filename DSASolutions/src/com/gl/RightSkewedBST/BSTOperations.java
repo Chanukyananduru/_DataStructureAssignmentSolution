@@ -34,7 +34,7 @@ class BSTOperations{
 	
 		// Recursively skewing the right subtree
 		
-				convertBSTtoSkewed(rightNode);
+		convertBSTtoSkewed(rightNode);
 			
 	}
 	// Function to print the right skewed tree recursively
